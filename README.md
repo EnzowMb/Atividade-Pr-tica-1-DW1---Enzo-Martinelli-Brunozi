@@ -1,4 +1,4 @@
-# Atividade-Pr-tica-1-DW1---Enzo-Martinelli-Brunozi
+# Atividade-Pratica-1-DW1---Enzo-Martinelli-Brunozi
 Primeira atividade pratica de desenvolvimento web 1
 
 Site escolhido: yahoo.com
